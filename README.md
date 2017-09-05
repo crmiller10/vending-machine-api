@@ -60,7 +60,8 @@ Example: a customer tries to buy an item but does not give enough money.
 
 Your actual data for these may look different, but should include similar information. All references to money should be in cents.
 
-###API endpoints
+API endpoints
+-------------
 
 The following is a recommended list of API endpoints:
 
