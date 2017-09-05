@@ -44,7 +44,8 @@ Example: a customer gets a list of items
     },
     // ...
   ]
-}</pre>
+}
+</pre>
 
 Example: a customer tries to buy an item but does not give enough money.
 
@@ -54,7 +55,8 @@ Example: a customer tries to buy an item but does not give enough money.
     "money_given": 50,
     "money_required": 65
   }
-}</pre>
+}
+</pre>
 
 Your actual data for these may look different, but should include similar information. All references to money should be in cents.
 

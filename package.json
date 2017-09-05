@@ -1,0 +1,20 @@
+{
+  "name": "vending-machine-api",
+  "version": "1.0.0",
+  "description": "For this project, you will create a JSON API for a vending machine. This machine has a list of items for sale with their ids, descriptions, and costs. It also keeps track of all machine transactions with time of transaction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crmiller10/vending-machine-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crmiller10/vending-machine-api/issues"
+  },
+  "homepage": "https://github.com/crmiller10/vending-machine-api#readme"
+}
